@@ -1,3 +1,5 @@
+//Operador Ternario
+
 package EstudosDIO;
 
 import java.util.Scanner;
